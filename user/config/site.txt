@@ -51,9 +51,9 @@ common:
       y: 10
       scale: 1.2
   timeslice:
-    threshold1: 1999
-    threshold2: 2009
+    threshold1: 2010
+    threshold2: 2020
 charts:
   aspect-ratio: 0.4
-  yearly-min: 1990
+  yearly-min: 2000
   include: weekly yearly
