@@ -32,3 +32,28 @@ overview:
   download-control: true
   download-text: Demo atlas - Middlesex Earthworm - from ESB data downloaded from NBN on 05/09/2024.
   download-info: true
+zoom:
+  height: 700
+  boundaries: vcs
+common:
+  resolution: monad tetrad quadrant hectad
+  dot-shape: control
+  dot-opacity: control
+  dot-colour: black
+  map-types: standard density timeslice
+  legends:
+    - id: density
+      x: 10
+      y: 10
+      scale: 1.2
+    - id: timeslice
+      x: 10
+      y: 10
+      scale: 1.2
+  timeslice:
+    threshold1: 1999
+    threshold2: 2009
+charts:
+  aspect-ratio: 0.4
+  yearly-min: 1990
+  include: weekly yearly
