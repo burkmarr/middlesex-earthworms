@@ -17,3 +17,18 @@ tabs:
     caption: Temporal
   - tab: gallery
     caption: Gallery
+overview:
+  height: 900
+  boundary: gb21
+  grid-display: dashed
+  buffer-west: 10000
+  buffer-east: 10000
+  buffer-south: 10000
+  buffer-north: 10000
+  land-colour: "#eeeeee"
+  boundary-colour: black
+  grid-colour: black
+  boundary-width: 1.7
+  download-control: true
+  download-text: Demo atlas - Middlesex Earthworm - from ESB data downloaded from NBN on 05/09/2024.
+  download-info: true
