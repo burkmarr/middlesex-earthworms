@@ -1,6 +1,6 @@
 name: Demo atlas - Middlesex Earthworms
 header-background-colour: "#EF9766"
-header-text-colour: white
+header-text-colour: black
 header-logo: badge-circle.png
 header-logo-height: 80
 nav:
